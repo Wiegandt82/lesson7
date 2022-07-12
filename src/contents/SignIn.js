@@ -14,7 +14,6 @@ export default function SignIn() {
         console.log("clicked");
         
         navigation('/')
-
     }
   return (
     <div> 
